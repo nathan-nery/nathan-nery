@@ -1,3 +1,3 @@
-I like solving big problems.
-I'm a Full-Stack Developer.
-That's pretty much it!
+I like solving big problems.<br>
+I'm a Full-Stack Developer.<br>
+That's it.
