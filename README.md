@@ -2,9 +2,10 @@
 
 ### Embedded Software Engineer
 
-I am a Computer Engineer. I enjoy C programming.
+I am a Computer Engineer.
+I enjoy embedded software, C and C++ programming, firmware and hardware.
 
-| **Languages** | C, C++, Python |
+
 
 ---
 
