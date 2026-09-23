@@ -2,7 +2,6 @@
 
 ### Embedded Software Engineer
 
-I am a Computer Engineer.
 I enjoy embedded software, C and C++ programming, firmware and hardware.
 
 
@@ -14,4 +13,5 @@ I enjoy embedded software, C and C++ programming, firmware and hardware.
 
 Feel free to connect or explore my repositories!
 
-linkedin.com/in/nathan-nery/
+[Contact](https://linkedin.com/in/nathan-nery/) 
+
