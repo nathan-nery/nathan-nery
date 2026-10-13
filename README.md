@@ -2,7 +2,7 @@
 
 ### Embedded Software Engineer
 
-I enjoy embedded software, C and C++ programming, firmware and hardware.
+I enjoy embedded software, C, C++, firmware and hardware.
 
 
 
